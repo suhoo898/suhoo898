@@ -11,7 +11,7 @@
 
 | 프로젝트 | 내용 | 담당 및 기여 | 링크 |
 | --- | --- | --- | :---: |
-| **Wayfinder**<br>AI 커리어 네비게이터 | 경력 서사를 LLM으로 역량 단위로 구조화하고, `pgvector` 기반 인접 직무 탐색과 RAG 학습 로드맵을 제공하는 웹 서비스 | PostgreSQL DB 설계, 백엔드 API 개발, Docker 배포 환경 구성 | [Repository](https://github.com/kdt-8-Wayfinder/Wayfinder) |
+| **Wayfinder**<br>AI 커리어 네비게이터 | 경력 서사를 LLM으로 역량 단위로 구조화하고, `pgvector` 기반 인접 직무 탐색과 RAG 학습 로드맵을 제공하는 웹 서비스 | LLM 기반 이력서 역량 구조화, 임베딩·NCS 유사도 기반 개인화 직무 추천 및 학습 로드맵 파이프라인 설계 | [Repository](https://github.com/kdt-8-Wayfinder/Wayfinder) |
 | **개인 맞춤형 AI 문화유산 가이드** | 한국민족문화대백과사전 75,820개 문서를 활용해 Dense·BM25 Hybrid 검색과 출처 검증을 구현한 RAG 서비스 | 프로젝트 목표·범위·일정 관리, 작업 조정, RAG 서비스 연결 및 결과물 통합 | [Repository](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN33-3rd-1Team) |
 | **은행 고객 이탈 조기경보 및 유지전략 서비스** | 165,034건의 고객 데이터로 이탈 위험을 예측하고 SHAP 설명, Top-K 관리 전략, ROI 시뮬레이션을 제공하는 Streamlit 서비스 | 모델 학습·검증, 데이터 누수 방지 절차 재설계, 앙상블·임계값 최적화, Streamlit 메인 개발 | [Repository](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN33-2nd-6Team) |
 | **전기차 충전소 실시간 플랫폼** | 공공데이터 Open API, 충전소 운영 정보와 커뮤니티 데이터를 MySQL에 통합한 Streamlit 조회·분석 플랫폼 | 전기차 커뮤니티 크롤링, API 연동, 전처리 데이터 File I/O 구현 | [Repository](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN33-1st-4Team) |
