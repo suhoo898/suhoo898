@@ -3,7 +3,7 @@
 통계적 검증을 바탕으로 데이터를 분석하고, AI 모델을 실제 서비스까지 연결합니다.
 
 - 관심 분야: Data Analytics · ML · LLM/RAG · Digital Transformation
-- GitHub: [@suhoo898](https://github.com/suhoo898)
+- GitHub: [@suhoo898](https://github.com/suhoo898) / [@suhoo898-skn-33](https://github.com/suhoo898-skn-33)
 
 ---
 
