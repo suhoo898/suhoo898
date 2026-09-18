@@ -1,8 +1,7 @@
-# 채수환 (Su Hwan Chae)
+# 채수환 (SuHwan Chae)
 
 통계적 검증을 바탕으로 데이터를 분석하고, AI 모델을 실제 서비스까지 연결합니다.
 
-- 성균관대학교 통계학과 석사 · 건국대학교 응용통계학과 학사
 - 관심 분야: Data Analytics · Machine Learning · LLM/RAG · Digital Transformation
 - GitHub: [@suhoo898](https://github.com/suhoo898)
 
